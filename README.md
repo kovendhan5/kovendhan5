@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kovendhan</h1>
-<h3 align="center">🌟 Passionate about Front-End Development and Cloud Computing 🌟<br>. Hi there! I'm Kovendhan P, a dedicated learner with a passion for mastering the realms of Front-End Development and Cloud Computing. Currently pursuing my B.Tech, I'm driven by a relentless curiosity to explore the latest trends and technologies shaping the digital landscape.</h3>
+<h3 align="center">🌟 Passionate about Front-End Development and Cloud Computing 🌟<br> Hi there! I'm Kovendhan P, a dedicated learner with a passion for mastering the realms of Front-End Development and Cloud Computing. Currently pursuing my B.Tech, I'm driven by a relentless curiosity to explore the latest trends and technologies shaping the digital landscape.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kovendhan5&label=Profile%20views&color=0e75b6&style=flat" alt="kovendhan5" /> </p>
 
