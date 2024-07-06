@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://iamkovendhan.blogspot.com/#blog](https://iamkovendhan.blogspot.com/#blog)
 
-- 📫 How to reach me **kovendhanofficial5.com**
+- 📫 How to reach me: **kovendhanofficial@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
