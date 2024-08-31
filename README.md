@@ -8,9 +8,9 @@ Hi there! I'm Kovendhan P, a dedicated learner with a strong focus on mastering 
 
 - 🌱 I’m currently learning **AWS, AZURE,GCP**
 
-- 👨‍💻 All of my projects are available at [http://iamkovendhan.blogspot.com/](http://iamkovendhan.blogspot.com/)
+- 👨‍💻 All of my projects are available at [Personal-Portfolio](https://kovendhan5.github.io/Personal-Portfolio/)
 
-- 📝 I regularly write articles on [https://iamkovendhan.blogspot.com/#blog](https://iamkovendhan.blogspot.com/#blog)
+- 📝 I regularly write articles on  [Personal-Portfolio](https://kovendhan5.github.io/Personal-Portfolio/)
 
 - 📫 How to reach me: **kovendhanofficial5@gmail.com**
 
