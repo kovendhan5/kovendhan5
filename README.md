@@ -2,7 +2,7 @@
 <h3 align="center">🌟 Passionate about Cloud Computing, DevOps, and Cyber Security 🌟<br><br>
 Hi there! I'm Kovendhan P, a dedicated learner with a strong focus on mastering Cloud Computing and DevOps, followed by Cyber Security, and then Full Stack Development. Currently pursuing my B.Tech, I'm driven by a relentless curiosity to explore the latest trends and technologies shaping the digital landscape.</h3>
 
-- ⚒️ I'm currently working on [Ai Assistant](https://github.com/kovendhan5/Ai-Assistant)
+<!--- ⚒️ I'm currently working on [Ai Assistant](https://github.com/kovendhan5/Ai-Assistant) -->
 
 - 🔭 I’m have worked on [pixelated image correction](https://github.com/kovendhan5/intel-project) and i got certified by Intel.
 
