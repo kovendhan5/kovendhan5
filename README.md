@@ -20,7 +20,6 @@ Hi there! I'm Kovendhan P, a dedicated learner with a strong focus on mastering 
 <a href="https://kaggle.com/kovendhan5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kovendhan5" height="30" width="40" /></a>
 <a href="https://instagram.com/i_am_kovendhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_am_kovendhan" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@k_5_hits" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@k_5_hits" height="30" width="40" /></a>
-
 <a href="https://www.hackerrank.com/profile/kovendhan569" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="profile/kovendhan569" height="30" width="40" /></a>
 </p>
 
