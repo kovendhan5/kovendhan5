@@ -4,7 +4,7 @@ Hi there! I'm Kovendhan P, a dedicated learner with a strong focus on mastering 
 
 - ⚒️ I'm currently working on [Deep Fake Videos Detection](https://github.com/kovendhan5/deep-fake-videos-detection)
 
-- 🔭 I’m have worked on [pixelated image correction](https://github.com/kovendhan5/intel-project) and i got certified by **Intel**.
+- 🔭 I’m have worked on [pixelated image correction](https://github.com/kovendhan5/intel-project) and certified by **Intel**.
 
 - 🌱 I’m currently learning **AWS, AZURE,GCP**
 
