@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kovendhan</h1>
-<h3 align="center">🌟 Passionate about Cloud Computing, DevOps, and Cyber Security 🌟<br><br> 
-Hi there! I'm Kovendhan P, a dedicated learner with a strong focus on mastering Cloud Computing and DevOps, followed by Cyber Security, and then Full Stack Development. Currently pursuing my B.Tech, I'm driven by a relentless curiosity to explore the latest trends and technologies shaping the digital landscape.</h3> 
+<h3 align="center">🌟 Passionate about Cloud, DevOps, and Cyber Security 🌟<br><br> 
+Hi there! I'm Kovendhan P, a dedicated learner with a strong focus on mastering Cloud and DevOps, followed by Cyber Security, and then Full Stack Development. Currently pursuing my B.Tech, I'm driven by a relentless curiosity to explore the latest trends and technologies shaping the digital landscape.</h3> 
 
 - ⚒️ I'm currently working on [Jenkins](https://github.com/kovendhan5/jenkins)
 - 🔭 I’m have worked on  [Deep Fake Videos Detection](https://github.com/kovendhan5/deep-fake-videos-detection)
