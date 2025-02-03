@@ -36,8 +36,18 @@ Hi there! I'm Kovendhan P, a dedicated learner with a strong focus on mastering 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kovendhan5&theme=rose_pine&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
+## GitHub Stats
+
+<table><tbody><tr border="none"><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=kovendhan5&theme=dark&show_icons=true&count_private=true"><br>
+<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=kovendhan5&theme=dark"></td><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=kovendhan5&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
+
+
 
 <!---
 kovendhan5/kovendhan5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes. 
 --->
+
+
