@@ -2,6 +2,8 @@
 <h3 align="center">🌟 Passionate about Cloud, DevOps, Full Stack and Cyber Security 🌟<br><br> 
 Hi there! I'm Kovendhan P, a dedicated learner with a strong focus on mastering Cloud and DevOps, followed by Cyber Security, and then Full Stack Development. Currently pursuing my B.Tech, I'm driven by a relentless curiosity to explore the latest trends and technologies shaping the digital landscape.</h3> 
 
+- 📝 I'm certified with [Github Foundation certification](https://www.credly.com/badges/314df526-f7ab-4d6f-a511-c8d499ff0ed7/public_url) by Github.
+
 - ⚒️ I'm currently working on [Jenkins](https://github.com/kovendhan5/jenkins)
 - 🔭 I’m have worked on  [Deep Fake Videos Detection](https://github.com/kovendhan5/deep-fake-videos-detection)
 , [pixelated image correction](https://github.com/kovendhan5/intel-project).
@@ -9,8 +11,6 @@ Hi there! I'm Kovendhan P, a dedicated learner with a strong focus on mastering 
 - 🌱 I’m currently learning **AWS, AZURE,GCP**
 
 - 👨‍💻 All of my projects are available at [Personal-Portfolio](https://kovendhan5.github.io/Personal-Portfolio/)
-
-- 📝 I regularly write articles on  [Personal-Portfolio](https://kovendhan5.github.io/Personal-Portfolio/)
 
 - 📫 How to reach me: **kovendhanofficial5@gmail.com**
 
