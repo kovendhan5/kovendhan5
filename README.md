@@ -17,7 +17,8 @@ Hi there! I'm Kovendhan P, a dedicated learner with a strong focus on mastering 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kovendhanp/?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bn0izaz2xr4sm5rjw7b278w%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kovendhanp/?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bn0izaz2xr4sm5rjw7b278w%3d%3d" height="30" width="40" /></a>
-<a href="https://kaggle.com/kovendhan5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kovendhan5" height="30" width="40" /></a>
+<a href="https://kaggle.com/kovendhan5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt
+="kovendhan5" height="30" width="40" /></a>
 <a href="https://instagram.com/i_am_kovendhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_am_kovendhan" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@k_5_hits" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@k_5_hits" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/kovendhan569" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="profile/kovendhan569" height="30" width="40" /></a>
@@ -41,5 +42,3 @@ Hi there! I'm Kovendhan P, a dedicated learner with a strong focus on mastering 
 kovendhan5/kovendhan5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your  changes. 
 --->
-
-
