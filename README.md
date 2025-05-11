@@ -10,7 +10,7 @@ Hi there! I'm Kovendhan P, a dedicated learner with a strong focus on mastering 
 
 - 🌱 I’m currently learning **AWS, AZURE,GCP**
 
-- 👨‍💻 All of my projects are available at [Personal-Portfolio](https://kovendhan5.github.io/Personal-Portfolio/)
+<!--   - 👨‍💻 All of my projects are available at [Personal-Portfolio](https://kovendhan5.github.io/Personal-Portfolio/) -->
 
 - 📫 How to reach me: **kovendhanofficial5@gmail.com**
 
