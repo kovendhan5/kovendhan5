@@ -4,7 +4,7 @@ Hi there! I'm Kovendhan P, a dedicated learner with a strong focus on mastering 
 
 - 📝 I'm certified with [Github Foundation certification](https://www.credly.com/badges/314df526-f7ab-4d6f-a511-c8d499ff0ed7/public_url) by Github.
 
-- ⚒️ I'm currently working on [Jenkins](https://github.com/kovendhan5/jenkins)
+- ⚒️ I'm currently working on [voting-app](https://github.com/kovendhan5/voting-app)
 - 🔭 I’m have worked on  [Deep Fake Videos Detection](https://github.com/kovendhan5/deep-fake-videos-detection)
 , [pixelated image correction](https://github.com/kovendhan5/intel-project).
 
