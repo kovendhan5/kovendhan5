@@ -92,12 +92,19 @@ class Developer {
 
 <div align="center">
 
+<table>
+<tr>
+<td width="50%">
+
 ### ☁️ **Cloud & Infrastructure**
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+
+</td>
+<td width="50%">
 
 ### ⚡ **DevOps & Containers**
 
@@ -106,34 +113,24 @@ class Developer {
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
+</td>
+</tr>
+</table>
+
 </div>
-
-**🎯 Current Focus Areas**:
-
-- 🚀 **Multi-Cloud Architecture** & **Infrastructure as Code**
-- 🤖 **Generative AI** & **Large Language Models**
-- 🔐 **Zero Trust Security** & **DevSecOps**
-- 📊 **Observability** & **Site Reliability Engineering**
 
 ---
 
-## 📡 Connect & Collaborate
+## 🚀 Tech Stack & Connect
 
 <div align="center">
 
+**🔗 Connect:**
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kovendhanofficial5@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kovendhanp)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/kovendhan569)
 [![Docker Hub](https://img.shields.io/badge/Docker_Hub-2496ED?style=flat-square&logo=docker&logoColor=white)](https://hub.docker.com/repositories/kovendhan5)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=web&logoColor=white)](https://kovendhan.xyz/)
-
-</div>
-
----
-
-## 🛠️ Complete Technology Arsenal
-
-<div align="center">
 
 **💻 Programming:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
