@@ -3,8 +3,8 @@
 <!-- ANIMATED WAVE HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kovendhan%20P&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cloud%20%7C%20DevOps%20%7C%20Full%20Stack%20%7C%20CyberSec%20Enthusiast&descAlignY=51&descAlign=50"/>
 
-<!-- ANIMATED TYPING EFFECT -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=const+developer+%3D+%7B;++name%3A+'Kovendhan+P'%2C;++focus%3A+%5B'Cloud'%2C+'Full+Stack'%2C+'DevOps'%5D;%7D" alt="Typing SVG" />
+<!-- ANIMATED TYPING EFFECT
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=const+developer+%3D+%7B;++name%3A+'Kovendhan+P'%2C;++focus%3A+%5B'Cloud'%2C+'Full+Stack'%2C+'DevOps'%5D;%7D" alt="Typing SVG" /> -->
 
 </div>
 
@@ -143,69 +143,6 @@ tech_stack = {
 </tr>
 </table>
 
-### 💎 **Highlighted Past Projects**
-
-<details>
-<summary><b>🎭 AI-Powered DeepFake Detection System</b></summary>
-<br>
-
-**Repository:** [Deep Fake Videos Detection](https://github.com/kovendhan5/deep-fake-videos-detection)
-
-```python
-# Cutting-edge AI detection system
-project_overview = {
-    "objective": "Combat misinformation through AI",
-    "tech_stack": ["TensorFlow", "OpenCV", "Python", "Deep Learning"],
-    "features": [
-        "🎥 Real-time video analysis",
-        "🧠 Neural network detection",
-        "📊 Confidence scoring",
-        "🖥️ Web-based interface"
-    ],
-    "impact": "99.2% accuracy in deepfake detection"
-}
-```
-
-**Key Achievements:**
-
-- ⚡ **Real-time processing** at 30 FPS
-- 🎯 **99.2% accuracy** on test datasets
-- 🏗️ **Scalable architecture** for enterprise deployment
-- 📱 **Cross-platform** compatibility
-
-</details>
-
-<details>
-<summary><b>🖼️ Intel-Powered Image Enhancement Engine</b></summary>
-<br>
-
-**Repository:** [Pixelated Image Correction](https://github.com/kovendhan5/intel-project)
-
-```python
-# Advanced image processing solution
-enhancement_engine = {
-    "partnership": "Intel Corporation",
-    "technology": ["OpenCV", "Intel MKL", "Computer Vision"],
-    "capabilities": [
-        "🔍 Intelligent pixel interpolation",
-        "⚡ Batch processing optimization",
-        "🎨 Multiple enhancement algorithms",
-        "📈 Performance benchmarking"
-    ]
-}
-```
-
-**Technical Highlights:**
-
-- 🚀 **5x faster** processing with Intel optimizations
-- 🎯 **Multi-algorithm** approach for best results
-- 💾 **Memory efficient** for large-scale processing
-- 🔧 **API-first** design for easy integration
-
-</details>
-
----
-
 ## 🌱 Currently Mastering | 2025 Tech Stack
 
 <div align="center">
@@ -239,61 +176,14 @@ enhancement_engine = {
 
 <div align="center">
 
-<!-- ANIMATED CONTACT CARDS -->
-<table>
-<tr>
-<td align="center">
-<a href="mailto:kovendhanofficial5@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-<br><sub><b>Email Me</b></sub>
-</a>
-</td>
-<td align="center">
-<a href="https://linkedin.com/in/kovendhanp">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-<br><sub><b>Professional Network</b></sub>
-</a>
-</td>
-<td align="center">
-<a href="https://kaggle.com/kovendhan5">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
-<br><sub><b>Data Science</b></sub>
-</a>
-</td>
-<td align="center">
-<a href="https://instagram.com/i_am_kovendhan">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-<br><sub><b>Behind the Scenes</b></sub>
-</a>
-</td>
-</tr>
-<tr>
-<td align="center">
-<a href="https://www.youtube.com/@k_5_hits">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-<br><sub><b>Tech Content</b></sub>
-</a>
-</td>
-<td align="center">
-<a href="https://www.hackerrank.com/profile/kovendhan569">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-<br><sub><b>Coding Challenges</b></sub>
-</a>
-</td>
-<td align="center">
-<a href="https://hub.docker.com/repositories/kovendhan5">
-<img src="https://img.shields.io/badge/Docker_Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Hub"/>
-<br><sub><b>Container Registry</b></sub>
-</a>
-</td>
-<td align="center">
-<a href="https://kovendhan5.github.io/Personal-Portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/>
-<br><sub><b>My Work</b></sub>
-</a>
-</td>
-</tr>
-</table>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kovendhanofficial5@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kovendhanp)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/kovendhan5)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/i_am_kovendhan)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@k_5_hits)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/kovendhan569)
+[![Docker Hub](https://img.shields.io/badge/Docker_Hub-2496ED?style=flat-square&logo=docker&logoColor=white)](https://hub.docker.com/repositories/kovendhan5)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=web&logoColor=white)](https://kovendhan5.github.io/Personal-Portfolio/)
 
 </div>
 
@@ -303,46 +193,41 @@ enhancement_engine = {
 
 <div align="center">
 
-### 💻 **Programming & Scripting**
+**💻 Programming:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Bash](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+**🌐 Frontend:**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-### 🌐 **Frontend & Design**
+**⚙️ Backend:**
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+**🗄️ Databases:**
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 
-### ⚙️ **Backend & APIs**
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-### 🗄️ **Databases & Storage**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-
-### 🔧 **DevOps & Monitoring**
-
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+**🔧 DevOps:**
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
 
 </div>
 
