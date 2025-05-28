@@ -260,49 +260,6 @@ tech_stack = {
 
 <img src="https://github-profile-trophy.vercel.app/?username=kovendhan5&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub Trophies" />
 
-</div>
-
-### 📈 **Contribution Visualization**
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kovendhan5&theme=github-compact&bg_color=00000000&color=00F7FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
-
-</div>
-
-### ⚡ **Coding Activity**
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@kovendhan5&theme=transparent&hide_border=true&title_color=00F7FF&text_color=ffffff&custom_title=Weekly%20Coding%20Stats" alt="Coding Activity" />
-
-</div>
-
----
-
-## 🌟 Let's Build Something Amazing Together!
-
-<div align="center">
-
-### 💫 **"Innovation distinguishes between a leader and a follower." - Steve Jobs**
-
-<table>
-<tr>
-<td align="center">
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100" alt="Coding"/>
-<br><b>Always Coding</b>
-</td>
-<td align="center">
-<img src="https://media.giphy.com/media/ImmvDZ2c9xPR8gDvHV/giphy.gif" width="100" alt="Learning"/>
-<br><b>Forever Learning</b>
-</td>
-<td align="center">
-<img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="100" alt="Building"/>
-<br><b>Constantly Building</b>
-</td>
-</tr>
-</table>
-
 <!-- STAR THIS REPO CALL TO ACTION -->
 
 ### 🌟 **Enjoyed my profile? Give it a ⭐!**
