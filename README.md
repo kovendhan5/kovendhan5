@@ -179,7 +179,7 @@ class Developer {
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=kovendhan5&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&custom_title=Stats&title_color=00F7FF&text_color=ffffff&icon_color=00F7FF&card_width=300" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=kovendhan5&theme=rose_pine&show_icons=true&hide_border=true&count_private=true&custom_title=Stats&title_color=00F7FF&text_color=ffffff&icon_color=00F7FF&card_width=300" alt="GitHub Stats" />
 </td>
 <td width="50%">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kovendhan5&theme=transparent&hide_border=true&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=00F7FF&sideNums=00F7FF" alt="GitHub Streak" />
@@ -198,14 +198,10 @@ class Developer {
 </td>
 </tr>
 </table>
-
 </div>
-
 <div align="center">
-
 <!-- FOOTER WAVE -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
-
 </div>
 
 <!---
