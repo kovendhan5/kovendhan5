@@ -123,12 +123,9 @@ class Developer {
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kovendhanofficial5@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kovendhanp)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/kovendhan5)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/i_am_kovendhan)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@k_5_hits)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/kovendhan569)
 [![Docker Hub](https://img.shields.io/badge/Docker_Hub-2496ED?style=flat-square&logo=docker&logoColor=white)](https://hub.docker.com/repositories/kovendhan5)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=web&logoColor=white)](https://kovendhan5.github.io/Personal-Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=web&logoColor=white)](https://kovendhan.xyz/)
 
 </div>
 
