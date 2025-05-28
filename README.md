@@ -199,12 +199,7 @@ class Developer {
 
 </div>
 
-### 🏆 **Achievement Showcase**
-
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kovendhan5&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub Trophies" />
-
 <!-- STAR THIS REPO CALL TO ACTION -->
 
 ### 🌟 **Enjoyed my profile? Give it a ⭐!**
