@@ -98,20 +98,20 @@ class Developer {
 
 ### ☁️ **Cloud & Infrastructure**
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
 
 </td>
 <td width="50%">
 
 ### ⚡ **DevOps & Containers**
 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 </td>
 </tr>
@@ -176,29 +176,32 @@ class Developer {
 
 <div align="center">
 
-### 🔥 **Real-Time GitHub Statistics**
-
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=kovendhan5&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Statistics&title_color=00F7FF&text_color=ffffff&icon_color=00F7FF" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=kovendhan5&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&custom_title=Stats&title_color=00F7FF&text_color=ffffff&icon_color=00F7FF&card_width=300" alt="GitHub Stats" />
 </td>
 <td width="50%">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kovendhan5&theme=transparent&hide_border=true&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=00F7FF&sideNums=00F7FF" alt="GitHub Streak" />
 </td>
 </tr>
-</table>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kovendhan5&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=450&title_color=00F7FF&text_color=ffffff" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-<!-- STAR THIS REPO CALL TO ACTION -->
+<tr>
+<td width="50%" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kovendhan5&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=300&title_color=00F7FF&text_color=ffffff" alt="Top Languages" />
+</td>
+<td width="50%" align="center">
 
 ### 🌟 **Enjoyed my profile? Give it a ⭐!**
 
 ![Thanks](https://img.shields.io/badge/Thanks%20for%20visiting-You're%20awesome!-ff69b4?style=for-the-badge&logo=heart&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
 
 <!-- FOOTER WAVE -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
